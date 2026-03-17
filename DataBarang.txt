@@ -1,0 +1,5 @@
+Kipas 200000 4
+TV 2000000 5
+dispenser 150000 4
+kulkas 2005000 5
+radio 30000 4
